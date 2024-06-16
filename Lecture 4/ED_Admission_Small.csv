@@ -1,0 +1,15 @@
+﻿Age,Income,Diabetes,Cholesterol,ED Admission
+<30,High,NO,BAD,NO
+<30,High,NO,FAIR,NO
+30-60,High,NO,BAD,YES
+>60,Medium,NO,BAD,YES
+>60,Low,YES,BAD,YES
+>60,Low,YES,FAIR,NO
+30-60,Low,YES,FAIR,YES
+<30,Medium,NO,BAD,NO
+<30,Low,YES,BAD,YES
+>60,Medium,YES,BAD,YES
+<30,Medium,YES,FAIR,YES
+30-60,Medium,NO,FAIR,YES
+30-60,High,YES,BAD,YES
+>60,Medium,NO,FAIR,NO
