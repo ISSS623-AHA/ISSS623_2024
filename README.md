@@ -4,10 +4,18 @@ Lecture Hand-on Codes
 Hands-on codes that we will use for our Lectures. 
 
 ## Table of contents
+* [Lecture 1](#lecture-1)
 * [Lecture 2](#lecture-2)
 * [Lecture 3](#lecture-3)
 * [Lecture 4](#lecture-4)
 * [References](#references)
+
+## Lecture 1
+
+Files in GitHub:
+- `Lecture_1.ipynb` contains the scripts for lecture 1 hands-on reading (chronic_kidney_disease_full_unclean.csv).
+- `chronic_kidney_disease_full_unclean.csv` contains dataset for cleaning.
+
 
 ## Lecture 2
 
@@ -17,9 +25,9 @@ Files in GitHub:
 - `chronic_kidney_disease_full.csv` contains original CKD dataset. 
 - `Lecture_2_Lab2_RRT.ipynb` contains the scripts for lecture 2 hands-on reading (RRT.csv).
 
-1. Chronic Kidney Disease Dataset: https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease
 
 ## Lecture 3
+
 Files in GitHub:
 - `Lecture_3_Lab1_Causal.ipynb` contains the scripts for lecture 3 hands-on reading (RRT.csv).
 - `Lecture 3_Lab2_Clustering.ipynb` contains the scripts for lecture 3 hands-on reading (ckd_numeric_data.csv).
@@ -41,7 +49,7 @@ Files in GitHub:
 
 ## References:
 
-Lecture 2 and 3:
+Lecture 1, 2 and 3:
 1. Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 2. Chronic Kidney Disease Dataset: https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease
 
