@@ -13,7 +13,7 @@ Hands-on codes that we will use for our Lectures.
 ## Lecture 1
 
 Files in GitHub:
-- `Lecture_1.ipynb` contains the scripts for lecture 1 hands-on reading (chronic_kidney_disease_full_unclean.csv).
+- `Lecture_1.ipynb` contains the scripts for lecture 1 hands-on for Python basics (chronic_kidney_disease_full_unclean.csv).
 - `chronic_kidney_disease_full_unclean.csv` contains dataset for cleaning.
 
 
