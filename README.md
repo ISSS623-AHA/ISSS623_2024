@@ -25,16 +25,7 @@ Files in GitHub:
 - `chronic_kidney_disease_full.csv` contains original CKD dataset. 
 - `Lecture_2_Lab2_RRT.ipynb` contains the scripts for lecture 2 hands-on reading (RRT.csv).
 
-
 ## Lecture 3
-
-Files in GitHub:
-- `Lecture_3_Lab1_Causal.ipynb` contains the scripts for lecture 3 hands-on reading (RRT.csv).
-- `Lecture 3_Lab2_Clustering.ipynb` contains the scripts for lecture 3 hands-on reading (ckd_numeric_data.csv).
-- `ckd_numeric_data.csv` contains  the numeric columns from the ckd dataset that was cleaned in the previous lecture.
-- `chronic_kidney_disease_full.csv` contains original CKD dataset. 
-
-## Lecture 4
 
 Files in GitHub:
 1. Practice 1: Simple Decision Tree Classifier
@@ -47,12 +38,17 @@ Files in GitHub:
 3.1 Dataset: heart_failure_clinical_records_dataset.csv
 3.2 Codes: Lecture 4_Supervised - HF.ipynb
 
+## Lecture 4
+
+Files in GitHub:
+- `Lecture_3_Lab1_Causal.ipynb` contains the scripts for lecture 3 hands-on reading (RRT.csv).
+- `Lecture 3_Lab2_Clustering.ipynb` contains the scripts for lecture 3 hands-on reading (ckd_numeric_data.csv).
+- `ckd_numeric_data.csv` contains  the numeric columns from the ckd dataset that was cleaned in the previous lecture.
+- `chronic_kidney_disease_full.csv` contains original CKD dataset. 
+
 ## References:
 
-Lecture 1, 2 and 3:
 1. Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 2. Chronic Kidney Disease Dataset: https://archive.ics.uci.edu/ml/datasets/chronic_kidney_disease
-
-Lecture 4:
-1. Heart Failure Prediction (Chicco, D., Jurman, G. Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Med Inform Decis Mak 20, 16 (2020)
-2. Fischer, C., Lingsma, H. F., Marang-van de Mheen, P. J., Kringos, D. S., Klazinga, N. S., & Steyerberg, E. W. (2014). Is the readmission rate a valid quality indicator? A review of the evidence. PloS one, 9(11), e112282.
+3. Heart Failure Prediction (Chicco, D., Jurman, G. Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Med Inform Decis Mak 20, 16 (2020)
+4. Fischer, C., Lingsma, H. F., Marang-van de Mheen, P. J., Kringos, D. S., Klazinga, N. S., & Steyerberg, E. W. (2014). Is the readmission rate a valid quality indicator? A review of the evidence. PloS one, 9(11), e112282.
